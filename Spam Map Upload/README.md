@@ -4,7 +4,7 @@
 With this script you can save a map thousands of time with random names and then upload all of the saved maps to as many servers as you wish.
 
 # Installation
-Copy the spam_map_upload.cfg file to your AssaultCube scripts folder.
+Copy the spam-map-upload.cfg file to your AssaultCube scripts folder.
 
 # Usage
 
