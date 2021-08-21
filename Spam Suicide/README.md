@@ -2,7 +2,7 @@
 
 # Description
 This script allows you to spam suiciding.
-It depends on the Respawn script (See [](../Respawn/README.md).
+It depends on the [Respawn script](../Respawn/README.md).
 
 # Installation
 Copy the spam-suicide.cfg file to your AssaultCube scripts folder.
